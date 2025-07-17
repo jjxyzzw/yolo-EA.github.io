@@ -64,14 +64,14 @@ python predict.py --weights yolov11-ea.pt --source path/to/image.jpg --sahi
 
 | 原图                     | YOLOv11s                  | YOLO-EA               |
 | ---------------------- | ------------------------- | --------------------- |
-| ![原图](results/raw.jpg) | ![v11s](results/v11s.jpg) | ![EA](results/ea.jpg) |
+| ![原图](脐橙树航拍图/DJI_0757.JPG) | ![v11s](不同配置检测效果\QAQ_11s_48batch/DJI_0757.JPG) | ![EA](不同配置检测效果\yolo11s_C2PSAiEMA_AFPN4Head_final_48/DJI_0757.JPG) |
 
 ## 📚 引用本项目
 
 如果你在研究中使用了本项目，请引用本论文：
 
 ```
-zzw, 等. 高空航拍视角下的脐橙树目标识别检测[J]. 国防科技大学学报, 2025.
+zzw,xxx,xxx 等. 高空航拍视角下的脐橙树目标识别检测[J]. xxx, 2025.
 ```
 
 ## 🧠 致谢
